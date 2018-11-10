@@ -5,4 +5,10 @@ three update info ....my add yihang info
 gitHup news oooooo
 我新增加了一行操作
 我新增加了一行操作2
+<<<<<<< HEAD
+woshi 令狐冲 add new info
+=======
 岳不群新增一行数据》》》》
+我是令狐冲，我在good.txt中新增了一行数据
+我是岳不群，我在good.txt中新增了一行数据
+test ssh edit>>>>>>>>>>>>>>>
